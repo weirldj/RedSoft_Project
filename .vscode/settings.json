@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "solidity.remappingsUnix": ["@openzeppelin/=node_modules/@openzeppelin/"]
+    
+}
